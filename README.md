@@ -6,12 +6,12 @@ Coding Task Challenge:
 
 1. Write a special cipher that is a combination of Caesar’s cipher followed by a simple
 RLE. The function should receive a string and the rotation number as parameters.
-Input: special Cipher(“AABCCC”, 3) Output: D2EF3
+Input: special Cipher(“AABCCC”, 3) Output: D21EF3
 
 2. Write a program that finds the most optimized set of 6 units to shop with for values
 fewer than 100. Example: Units used are 1, 2, 5, 10, 20, 50 1: 1 (1 unit used) 2: 2 (1
 unit used) 3: 1+2 (2 units used) 4: 2+2 (2 units used) ... 98: 1+2+5+20+20+50 (6 units
-used) 99: 2+2+5+20+20+50 (6 units used) AVG of units = 3.4
+used) 99: 2+2+5+20+20+50 (6 units used) AVG of units = 16.4
 
 Scenario:
 
