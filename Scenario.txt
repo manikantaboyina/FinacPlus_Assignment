@@ -1,0 +1,45 @@
+3.Scenario Problem
+
+
+Statement:
+
+Imagine you work for amazon, what is the Meta data information you will store for
+an item in your Database. For E.g. the item is a shirt, once you have stored the Meta
+data how will use the information?
+
+
+Solution:
+
+As an Amazon employee working on managing product data in the database, the metadata information stored for an item such as a shirt would typically include the following fields:
+
+- Item ID: A unique identifier for the shirt.
+- Name: The name or title of the shirt.
+- Brand: The brand or manufacturer of the shirt.
+- Description: A detailed description of the shirt.
+- Category: The category or type of shirt (e.g., Men's, Women's, Kids, Formal, Casual, etc.).
+- Color: The color of the shirt.
+- Size: The size options available for the shirt.
+- Price: The price of the shirt.
+- Images: URLs or references to images of the shirt.
+- Ratings/Reviews: Average rating and customer reviews for the shirt.
+- Inventory: Quantity available in stock.
+- Shipping Information: Details about shipping options, fees, and delivery times.
+- Material: Fabric/material composition of the shirt.
+- Care Instructions: Washing and maintenance instructions for the shirt.
+- Related Products: Links to related or recommended products.
+- Promotional Information: Discounts, offers, or promotions related to the shirt.
+
+
+How the information is utilized:
+
+- Search and Recommendations: Use metadata to improve search relevance and provide personalized product recommendations.
+- Product Listing: Display relevant information on the product detail page including images, description, price, ratings, and reviews.
+- Inventory Management: Track and update inventory levels based on purchases and manage out-of-stock notifications.
+- Price Management: Dynamically adjust prices based on demand, competition, and other factors.
+- Customer Support: Utilize metadata for customer inquiries, returns, and exchanges related to the shirt.
+- Analytics and Reporting: Analyze metadata to track sales performance, customer behavior, and trends to make informed business decisions.
+- Marketing and Promotions: Use metadata to create targeted marketing campaigns, promotions, and cross-selling strategies.
+- Personalization: Use metadata to tailor the shopping experience for individual customers based on their preferences and behavior.
+
+Overall, the metadata stored for an item like a shirt in the database enables efficient management of product information, enhances the customer shopping experience, and drives business decisions and strategies at Amazon.
+
